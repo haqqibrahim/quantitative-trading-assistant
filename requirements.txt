@@ -1,0 +1,6 @@
+streamlit
+phidata
+psycopg2-binary
+sqlalchemy
+tavily-python
+python-dotenv 
