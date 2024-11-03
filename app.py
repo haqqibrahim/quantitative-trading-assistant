@@ -11,7 +11,7 @@ import datetime
 st.set_page_config(
     page_title="Quantitative Trading Assistant",
     page_icon="📈",
-    layout="wide"
+    layout="centered"
 )
 
 # Database setup for chat history - moved to secrets
