@@ -4,3 +4,4 @@ phidata
 psycopg2-binary
 tavily-python
 openai
+sqlalchemy
